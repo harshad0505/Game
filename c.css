@@ -131,3 +131,11 @@ section{
 .label-score {
   margin-bottom: 2rem;
 }
+
+.low{
+  float: center;
+  margin-bottom: 1px;
+  transform: translate(-80%,40%);
+  font-weight: 700;
+  
+}
